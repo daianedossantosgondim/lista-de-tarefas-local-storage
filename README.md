@@ -16,10 +16,6 @@ Baixe ou clone este repositório e abra `index.html` em um navegador moderno. N�
 - `Relatorio_ABNT_Lista_de_Tarefas.docx` — relatório editável da atividade.
 - `Relatorio_ABNT_Lista_de_Tarefas.pdf` — versão PDF do relatório.
 
-## Deploy automático no Vercel
-
-O workflow `.github/workflows/deploy-vercel.yml` publica a aplicação em produção a cada push na branch `main` ou quando executado manualmente. Para autorizar o deploy, crie um token na sua conta Vercel e adicione-o em **Settings → Secrets and variables → Actions → New repository secret**, com o nome `VERCEL_TOKEN`. O token é usado somente como segredo do GitHub Actions e não deve ser salvo no código. Depois de adicionar o segredo, acione **Actions → Deploy no Vercel → Run workflow**; os pushes seguintes farão deploy automaticamente.
-
 ## Tecnologias e conceitos
 
 HTML5, CSS3 e JavaScript; manipulação do DOM; eventos de formulário; `localStorage`; serialização e leitura com `JSON.stringify` e `JSON.parse`; tratamento de dados inválidos com `try...catch`.
