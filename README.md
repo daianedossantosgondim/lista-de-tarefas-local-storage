@@ -8,7 +8,7 @@ A página permite adicionar tarefas pelo botão ou pela tecla Enter, marcar tare
 
 ## Como executar
 
-Baixe ou clone este repositório e abra `index.html` em um navegador moderno. Não é necessário instalar dependências ou iniciar servidor. Os dados ficam armazenados localmente no navegador e na origem usada para abrir o arquivo.
+Deploy na vercel
 
 ## Arquivos
 
